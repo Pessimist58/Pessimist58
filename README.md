@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I'm currently learning Computer Programming and other programming languages
 
 - 📫 How to reach me **kaankaramuklu@hotmail.com**
 
