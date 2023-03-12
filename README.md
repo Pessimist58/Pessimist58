@@ -3,11 +3,6 @@
 
 <br>
 
-<p align="center">
-    <img width="200" src="https://i.pinimg.com/564x/f6/b9/3b/f6b93b5e0945174d9184654958021467.jpg">
-</p>
-
-
 - 🌱 I'm currently learning Computer Programming and other programming languages
 
 - 📫 How to reach me **kaankaramuklu@hotmail.com**
